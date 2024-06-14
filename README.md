@@ -8,7 +8,6 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
 
 ![This is the example of Userpage](./chat.jpeg)
 
-Unique feature : Integrated Socket.io.
 ![This is the example of Dashboard](./socket.jpeg)
 
 # Features
