@@ -13,19 +13,19 @@ Unique feature : Integrated Socket.io.
 
 # Features
 
-## User Authentication: Users can create accounts, log in securely, and manage their profiles.
-## Real-time Messaging: Instant messaging capabilities to facilitate real-time conversations between users.
-## Media Sharing: Users can share images, videos, and audio files during chat sessions.
-## Message History: Retain chat history to allow users to view previous conversations.
-## Responsive Design: Mobile-friendly and responsive design to provide a consistent user experience across devices.
+ User Authentication: Users can create accounts, log in securely, and manage their profiles.
+ Real-time Messaging: Instant messaging capabilities to facilitate real-time conversations between users.
+ Media Sharing: Users can share images, videos, and audio files during chat sessions.
+ Message History: Retain chat history to allow users to view previous conversations.
+ Responsive Design: Mobile-friendly and responsive design to provide a consistent user experience across devices.
 
 # Technologies Used
 
-## Frontend: React for the user interface design and functionality.
-## Backend: Node.js and Express for server-side logic and API development.
-## Database: MongoDB for storing chat data and user information.
-## Socket.io: Real-time communication through WebSockets for instant messaging.
-## Third-party APIs: Integration of third-party APIs for additional features and services.
+ Frontend: React for the user interface design and functionality.
+ Backend: Node.js and Express for server-side logic and API development.
+ Database: MongoDB for storing chat data and user information.
+ Socket.io: Real-time communication through WebSockets for instant messaging.
+ Third-party APIs: Integration of third-party APIs for additional features and services.
 
 # Setup Instructions
 
