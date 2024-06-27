@@ -6,7 +6,7 @@
 
 Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React, Node.js) stack. This messaging app aims to provide users with a seamless and interactive platform for real-time communication. Users can exchange text messages, media files, videos, and audio clips in a secure and user-friendly environment.
 
-![This is the example of Userpage](./chat.jpeg)
+![This is the example of Userpage](./presentation.png)
 
 ![This is the example of Dashboard](./socket.jpeg)
 
