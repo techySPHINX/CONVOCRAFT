@@ -29,15 +29,21 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
 # Setup Instructions
 
 Clone the Repository: Clone the project repository to your local machine.
-```git clone <repository-url>```
+```
+git clone <repository-url>
+```
 
 Install Dependencies: Navigate to the project directory and install the necessary dependencies.
-```npm install```
+```
+npm install
+```
 
 Configure Environment Variables: Create a .env file and set up environment variables, including database connection details and API keys.
 
 Start the Application: Launch the application by running the appropriate command.
-```npm start```
+```
+npm start
+```
 
 Access the App: Open your browser and navigate to the specified URL (e.g., http://localhost:3000) to access the Chat Messaging App.
 
