@@ -2,7 +2,7 @@
 
 > [Follow or Connect me](https://www.linkedin.com/in/jagan-kumar-hotta-502a76270/)
 
-# Overview
+## Overview
 
 Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React, Node.js) stack. This messaging app aims to provide users with a seamless and interactive platform for real-time communication. Users can exchange text messages, media files, videos, and audio clips in a secure and user-friendly environment.
 
@@ -10,7 +10,7 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
 
 ![This is the example of Dashboard](./socket.jpeg)
 
-# Features
+## Features
 
  User Authentication: Users can create accounts, log in securely, and manage their profiles.
  Real-time Messaging: Instant messaging capabilities to facilitate real-time conversations between users.
@@ -18,7 +18,7 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
  Message History: Retain chat history to allow users to view previous conversations.
  Responsive Design: Mobile-friendly and responsive design to provide a consistent user experience across devices.
 
-# Technologies Used
+## Technologies Used
 
  Frontend: React for the user interface design and functionality.
  Backend: Node.js and Express for server-side logic and API development.
@@ -26,26 +26,26 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
  Socket.io: Real-time communication through WebSockets for instant messaging.
  Third-party APIs: Integration of third-party APIs for additional features and services.
 
-# Setup Instructions
+## Setup Instructions
 
-Clone the Repository: Clone the project repository to your local machine.
+### Clone the Repository ###: Clone the project repository to your local machine.
 ```
 git clone <repository-url>
 ```
 
-Install Dependencies: Navigate to the project directory and install the necessary dependencies.
+### Install Dependencies ###: Navigate to the project directory and install the necessary dependencies.
 ```
 npm install
 ```
 
-Configure Environment Variables: Create a .env file and set up environment variables, including database connection details and API keys.
+### Configure Environment Variables ###: Create a .env file and set up environment variables, including database connection details and API keys.
 
-Start the Application: Launch the application by running the appropriate command.
+### Start the Application ###: Launch the application by running the appropriate command.
 ```
 npm start
 ```
 
-Access the App: Open your browser and navigate to the specified URL (e.g., http://localhost:3000) to access the Chat Messaging App.
+### Access the App ###: Open your browser and navigate to the specified URL (e.g., http://localhost:3000) to access the Chat Messaging App.
 
 # Future Enhancements
 
