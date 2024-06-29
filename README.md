@@ -1,5 +1,8 @@
 # Chat Messaging App README
 
+<link rel="stylesheet" href="static/css/font-awesome.min.css">
+
+
 > [Follow or Connect me](https://www.linkedin.com/in/jagan-kumar-hotta-502a76270/)
 
 ## Overview
@@ -21,13 +24,18 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
  
  **Responsive Design**: Mobile-friendly and responsive design to provide a consistent user experience across devices.
 
-## Technologies Used
+## Tech Stack
 
-**Frontend**: React for the user interface design and functionality.
- **Backend**: Node.js and Express for server-side logic and API development.
- **Database**: MongoDB for storing chat data and user information.
- **Socket.io**: Real-time communication through WebSockets for instant messaging.
- **Third-party APIs**: Integration of third-party APIs for additional features and services.
+This project utilizes a powerful combination of technologies to deliver a robust and interactive experience:
+
+<div style="text-align: center;">  (fab fa-react) React  |  (fas fa-database) MongoDB  |  (fas fa-broadcast-tower) Socket.IO  |  (fas fa-code) Express  |  (fas fa-node-js) Node.js
+</div>
+
+https://legacy.reactjs.org/ | https://www.mongodb.com/ | https://socket.io/docs/v4/ | https://expressjs.com/ | https://nodejs.org/en
+
+These technologies work together seamlessly to create a modern and engaging web application.
+
+
 
 ## Setup Instructions
 
