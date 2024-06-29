@@ -26,12 +26,28 @@ Welcome to our Chat Messaging App, built using the MERN (MongoDB, Express, React
 
 ## Tech Stack
 
-This project utilizes a powerful combination of technologies to deliver a robust and interactive experience:
+<div style="text-align: center; display: flex; justify-content: center; gap: 10px;">  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=4EA94B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="MongoDB logo" />
+  </a>
 
-<div style="text-align: center;">  (fab fa-react) React  |  (fas fa-database) MongoDB  |  (fas fa-broadcast-tower) Socket.IO  |  (fas fa-code) Express  |  (fas fa-node-js) Node.js
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="React logo" />
+  </a>
+
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Socket.IO&logo=socket.io&label=&color=00B7FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Socket.IO logo" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Node.js logo" />
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=4782BD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Express.js logo" />
+  </a>
+
 </div>
 
-https://legacy.reactjs.org/ | https://www.mongodb.com/ | https://socket.io/docs/v4/ | https://expressjs.com/ | https://nodejs.org/en
 
 These technologies work together seamlessly to create a modern and engaging web application.
 
